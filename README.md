@@ -1,8 +1,8 @@
 # Olá, Sou Mariclecio Amaro da Costa.
-## Bem vindo(a) ao meu perfil GitHub 👋
+## Bem vindo(a) ao meu perfil GitHub! 👋
 
 
-- 🔭 Atualmente sou estudante de tecnolgia em redes de computadores.
+- 🔭 Atualmente sou estudante de tecnologia em redes de computadores.
 - 🌱 Atualmente estou estudando também sobre Python, SQL, e aplicação dessas linguagens em análise de dados.
 
 - ## Ferramentas e Tecnologias
