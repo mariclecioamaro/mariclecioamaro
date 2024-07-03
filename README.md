@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente sou estudante de tecnologia em redes de computadores.
-- 🌱 Atualmente estou estudando também sobre Python, SQL, e aplicação dessas linguagens em análise de dados.
+- 🌱 Estou estudando também sobre Python, SQL, e aplicação dessas linguagens em análise de dados.
 
 - ## Ferramentas e Tecnologias
 
