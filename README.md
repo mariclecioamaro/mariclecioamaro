@@ -4,11 +4,12 @@
 
 - 🔭 Atualmente sou estudante de tecnolgia em redes de computadores.
 - 🌱 Atualmente estou estudando também sobre Python, SQL, e aplicação dessas linguagens em análise de dados.
-- 📫 Como entrar em contato comigo:
 
 - ## Ferramentas e Tecnologias
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
+- 📫 Como entrar em contato comigo:
 
 
 ## Contatos:
@@ -23,6 +24,6 @@
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?mariclecioamaro&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?mariclecioamaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
