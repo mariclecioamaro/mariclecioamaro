@@ -1,4 +1,4 @@
-# Olá, me chamo Mariclecio Amaro da Costa.
+# Olá, Sou Mariclecio Amaro da Costa.
 ## Bem vindo(a) ao meu perfil GitHub 👋
 
 
